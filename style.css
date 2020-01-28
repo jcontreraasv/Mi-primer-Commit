@@ -1,3 +1,15 @@
-P{
-  color: blue:
+body{
+  background-color: darkmagenta;
+}
+
+p{
+  color: blue;
+}
+
+h1{
+  color:red;
+}
+
+h2{
+  color: crimson;
 }
